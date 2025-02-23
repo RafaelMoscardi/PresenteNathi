@@ -17,7 +17,7 @@ function showSlide() {
 
 // Inicializa o carrossel
 showSlide();
-setInterval(showSlide, 3000); // Troca de slide a cada 3 segundos
+setInterval(showSlide, 2000); // Troca de slide a cada 3 segundos
 
 // Contador de tempo
 const startDate = new Date("2024-01-10T00:00:00");
